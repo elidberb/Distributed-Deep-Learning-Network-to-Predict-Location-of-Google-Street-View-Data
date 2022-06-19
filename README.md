@@ -1,4 +1,7 @@
-# Project_Berberette_Price
+# Authors
+
+- Elijah Berberette
+- Hunter Price
 
 # References
 [1] https://nirvan66.github.io/geoguessr.html
